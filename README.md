@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bekouideromar
+- 👋 Hi, I’m Omar
 - 👀 I’m interested in code & design
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on lightweight project
